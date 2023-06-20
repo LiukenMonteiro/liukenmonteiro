@@ -20,9 +20,7 @@
   <img align="center" alt="Liuken-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 </div>
   
-## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liukenmonteiro&show_icons=true&theme=dark)
-
-##  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liukenmonteiro&layout=compact&theme=dark)
+## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liukenmonteiro&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liukenmonteiro&layout=compact&theme=dark)
  
 <div> 
   <a href="https://www.instagram.com/liukensnoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
