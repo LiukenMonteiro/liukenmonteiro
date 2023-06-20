@@ -18,7 +18,6 @@
   <img align="center" alt="Liuken-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Liuken-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Liuken-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="right" height=180em" alt="Liuken-Gif" src="https://i.picasion.com/pic92/ea8ce7545358842cb1920b1e08eb9b81.gif" />
 </div>
 
 ### <div>
@@ -28,8 +27,7 @@
 <a href="https://github.com/liukenmonteiro/convoychat">
   <img align="center" height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liukenmonteiro&layout=compact&theme=dark" />
 </a>
-<br>
-<br>
+<img align="right" height=180em" alt="Liuken-Gif" src="https://i.picasion.com/pic92/ea8ce7545358842cb1920b1e08eb9b81.gif" />
 
 </div>
 
