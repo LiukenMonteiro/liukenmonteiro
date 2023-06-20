@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a>
-    <img align="right" height=180em" alt="Liuken-Gif" src="https://i.picasion.com/pic92/ea8ce7545358842cb1920b1e08eb9b81.gif" />
+    <img align="right" height=180em" alt="Liuken-Gif" src="https://i.picasion.com/pic92/3e6598fda09140dbd6b5e01790272b45.gif" />
   </a>
 </div>
 
