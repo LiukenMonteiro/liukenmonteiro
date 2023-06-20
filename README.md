@@ -1,10 +1,10 @@
-### Olá! eu sou o Liuken Monteiro
+### Hello! I'm Liuken Monteiro
 
-- 💬 FullStack em formação
-- 🔭 Em busca da minha primeira oportunidade
-- 🌱 Estudando Typescript e Java
-- 👯 Quero colaborar
-- 😄 Pronouns: Ele/dele
+- 💬 FullStack in training
+- 🔭 Looking for my first opportunity
+- 🌱 Studying Typescript and Java
+- 👯 I want to collaborate
+- 😄 Pronouns: He/His
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Liuken-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
