@@ -45,4 +45,5 @@
   </a>
 </div>
 
+![Snake animation](https://github.com/liukenmonteiro/liukenmonteiro/blob/output/github-contribution-grid-snake.svg)
   
