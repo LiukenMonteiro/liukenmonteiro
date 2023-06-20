@@ -18,6 +18,7 @@
   <img align="center" alt="Liuken-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Liuken-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Liuken-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img align="right" height=180em" alt="Liuken-Gif" src="https://i.picasion.com/pic92/ea8ce7545358842cb1920b1e08eb9b81.gif" />
 </div>
 
 ### <div>
@@ -29,7 +30,7 @@
 </a>
 <br>
 <br>
-<img align="right" height=180em" alt="Liuken-Gif" src="https://i.picasion.com/pic92/ea8ce7545358842cb1920b1e08eb9b81.gif" />
+
 </div>
 
 ### 
