@@ -27,8 +27,6 @@
 <a href="https://github.com/liukenmonteiro/convoychat">
   <img align="center" height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liukenmonteiro&layout=compact&theme=dark" />
 </a>
-
-
 </div>
 
 ### 
@@ -48,7 +46,3 @@
 </div>
 
   
-
-
-
-
