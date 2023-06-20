@@ -27,15 +27,25 @@
 <a href="https://github.com/liukenmonteiro/convoychat">
   <img align="center" height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liukenmonteiro&layout=compact&theme=dark" />
 </a>
-<img align="right" height=180em" alt="Liuken-Gif" src="https://i.picasion.com/pic92/ea8ce7545358842cb1920b1e08eb9b81.gif" />
+
 
 </div>
 
 ### 
 <div> 
-  <a href="https://www.instagram.com/liukensnoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:liuken37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/liukenmonteirodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/liukensnoo/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:liuken37@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/liukenmonteirodev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a>
+    <img align="right" height=180em" alt="Liuken-Gif" src="https://i.picasion.com/pic92/ea8ce7545358842cb1920b1e08eb9b81.gif" />
+  </a>
+</div>
 
   
 
