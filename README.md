@@ -2,7 +2,7 @@
 
 - 💬 FullStack in training
 - 🔭 Looking for my first opportunity
-- 🌱 Studying Typescript and Java
+- 🌱 Studying Java
 - 👯 I want to collaborate
 - 😄 Pronouns: He/His
 
