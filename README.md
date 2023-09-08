@@ -1,6 +1,6 @@
 ### Hello! I'm Liuken Monteiro
 
-- 💬 FullStack in training
+- 💬 FullStack JavaScript
 - 🔭 Looking for my first opportunity
 - 🌱 Studying Java
 - 👯 I want to collaborate
